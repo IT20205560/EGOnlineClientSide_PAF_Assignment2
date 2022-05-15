@@ -10,7 +10,7 @@
 <script src="components/jquery-3.6.0.min.js"></script>
 <script src="components/main.js"></script>
 </head>
-<body>
+<body style="background-color:lightgray;">
 <div class="container"> 
 		<div class="row">  
 		
